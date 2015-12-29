@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>time</key>
+		<string>节日</string>
+		<key>desc</key>
+		<string>农历六月十五</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>生日</string>
+		<key>desc</key>
+		<string>aaaaaaaaa</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>1945</string>
+		<key>desc</key>
+		<string>在70年前的今天，1945年7月30日 (农历荷月廿二)，美军“印第安纳波利斯”号在菲律宾海被日本潜艇击沉。</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>1975</string>
+		<key>desc</key>
+		<string>在40年前的今天，1975年7月30日 (农历荷月廿二)，欧洲安全和合作会议在赫尔辛基举行。</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>1980</string>
+		<key>desc</key>
+		<string>在35年前的今天，1980年7月30日 (农历荷月十九)，瓦努阿图共和国成立。</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>1984</string>
+		<key>desc</key>
+		<string>在31年前的今天，1984年7月30日 (农历瓜月初三)，我国第一条高原铁路西宁至格尔木段交付使用。
+
+在31年前的今天，1984年7月30日 (农历瓜月初三)，我国第一条高原铁路西宁至格尔木段交付使用。
+
+</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>2009</string>
+		<key>desc</key>
+		<string>  2009年7月30日 (农历荷月初九)，奥巴马白宫举行“啤酒峰会”化解种族风波。</string>
+	</dict>
+</array>
+</plist>
